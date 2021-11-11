@@ -2,4 +2,4 @@
 
 **Docker Hub (Image)**
 
-  $ docker run altamiro/docker-desafio-go:laster
+  $ docker run altamiro/docker-desafio-go:latest
